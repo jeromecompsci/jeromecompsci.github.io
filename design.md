@@ -1,7 +1,8 @@
 ---
-layout: archive
 title: Design
-permalink: /design/
-category: "design"
-tagline: "it's all about perception."
+permalink: "/design/"
+layout: archive
+category: design
+tagline: it's all about perception.
 ---
+

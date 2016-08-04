@@ -1,11 +1,9 @@
 ---
-layout: page
 title: Download
-permalink: /download/
-
-tagline: "Loved it? Download Gravity"
+permalink: "/download/"
+layout: page
+tagline: Loved it? Download Gravity
 ---
-
 
 <br>
 <div class="download">
