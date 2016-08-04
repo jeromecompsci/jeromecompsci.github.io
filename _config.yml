@@ -1,5 +1,5 @@
 ---
-title: Gravity
+title: Jerome Comp Sci Club
 timezone: UTC
 collections:
   posts:
@@ -8,10 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+email: jeromecompsci@gmail.com
+description: Updates And More
 baseurl: ''
-url: http://yourdomain.com
-twitter_username: hemang_kumar
-github_username: hemangsk
+url: http://jeromecompsci.com
+github_username: jeromecompsci
 markdown: kramdown
