@@ -37,6 +37,8 @@ Our planned activities include travel, individual projects, and a group project!
 </div>
 </p>
 </div>
+
+<br>
 <div class="manual-post">
   <div class="manual manual-title">
       <strong>Hackathons</strong>
