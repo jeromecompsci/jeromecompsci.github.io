@@ -4,6 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
+<img src="https://certificationgame.com/wp-content/uploads/2014/12/reflections-from-Certification-Game-hackathon-832x350.jpg" />
+
 <p>We want to provide a place for students interested in technology or hoping to learn more about technology to develop and practice their skills with one another</p>
 <br>
 <div class="manual-post">
@@ -33,8 +35,6 @@ What is a hackathon? MLH defines it as an “invention marathon”. Anyone who h
 </div>
 </p>
 </div>
-
-<img src="https://certificationgame.com/wp-content/uploads/2014/12/reflections-from-Certification-Game-hackathon-832x350.jpg" />
 
 <br>
 <div class="manual-post">
