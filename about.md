@@ -8,21 +8,6 @@ layout: page
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-      <strong>Board Members</strong>
-  </div>
-  <p>  <div class="manual-content">
-<ul>
-<li>Sahil Ambardekar</li>
-<li>Scott Crawford</li>
-<li>Raymond Chen</li>
-<li>Alex D</li>
-</ul>
-</div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
       <strong>Plans and Activities</strong>
   </div>
   <p>  <div class="manual-content">
@@ -67,6 +52,21 @@ Fightcode is a website that allows you to code your own bot using Javascript. Af
   </div>
   <p>  <div class="manual-content">
 Ionic is a software development kit for making mobile apps using web tools. We will be creating an app together as a club while learning HTML, CSS, and JavaScript! You can learn more <a href="http://ionicframework.com/">here</a>.
+</div>
+</p>
+</div>
+<br>
+<div class="manual-post">
+  <div class="manual manual-title">
+      <strong>Board Members</strong>
+  </div>
+  <p>  <div class="manual-content">
+<ul>
+<li>Sahil Ambardekar</li>
+<li>Scott Crawford</li>
+<li>Raymond Chen</li>
+<li>Alex D</li>
+</ul>
 </div>
 </p>
 </div>
