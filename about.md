@@ -11,34 +11,11 @@ layout: page
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Posting</strong>
+      <strong>Posting</strong>
   </div>
-<p>  <div class="manual-content">
+  <p>  <div class="manual-content">
 
-      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
-      - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <pre>---
-layout: post | default | page
-title:  String<span class="hint"> Post Title</span>
-date:   Time Stamp
-categories: String | Array of Strings<span class="hint"> Category / Categories </span>
----</pre>
       </div>
-      <div class="example">
-
-        <pre>---
-layout: post
-title:  "The One with the Blackout"
-date:   2016-03-30 19:45:31 +0530
-categories: ["life", "friends"]
----</pre>
-      </div>
-
-
-  </div>
 </p>
 </div>
 <br>
