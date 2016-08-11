@@ -27,6 +27,7 @@ layout: page
   </div>
   <p>  <div class="manual-content">
 Our planned activities include travel, individual projects, and a group project!
+<br>
 <ul>
 <li>Hackathons</li>
 <li>FightCode</li>
