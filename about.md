@@ -49,6 +49,17 @@ What is a hackathon? MLH defines it as an “invention marathon”. Anyone who h
 </p>
 </div>
 
+<br>
+<div class="manual-post">
+  <div class="manual manual-title">
+      <strong>Fightcode</strong>
+  </div>
+  <p>  <div class="manual-content">
+Fightcode is a website that allows you to code your own bot using Javascript. After creating your bot you can fight friend's bots and see who's best. It should be an interesting way to learn Javascript!
+</div>
+</p>
+</div>
+
 
 
 
