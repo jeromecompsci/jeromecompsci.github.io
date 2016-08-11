@@ -6,4 +6,13 @@ layout: page
 
 <br>
 <h3>Email</h3>
-<a href="mailto:jeromecompsci@gmail.com?Subject=Hello" target="_top">jeromecompsci@gmail.com</a>
+
+<script>
+var email = 'jeromecomp' + 'sci@gmail.com'
+document.write('<a href="mailto' + email + ':jeromecompsci@gmail.com?Subject=Hello" target="_top">jeromecompsci@gmail.com</a>')
+</script>
+
+<noscript>
+    Email address protected by JavaScript.<BR>
+    Please enable JavaScript to contact.
+</noscript>
