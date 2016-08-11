@@ -17,7 +17,7 @@ layout: page
 <li>Raymond Chen</li>
 <li>Alex D</li>
 </ul>
-      </div>
+</div>
 </p>
 </div>
 <br>
