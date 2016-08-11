@@ -34,6 +34,8 @@ What is a hackathon? MLH defines it as an “invention marathon”. Anyone who h
 </p>
 </div>
 
+<img src="https://certificationgame.com/wp-content/uploads/2014/12/reflections-from-Certification-Game-hackathon-832x350.jpg" />
+
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
