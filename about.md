@@ -29,10 +29,10 @@ layout: page
 Our planned activities include travel, individual projects, and a group project!
 <br>
 <ul>
-<li>Hackathons</li>
-<li>FightCode</li>
-<li>Ionic Mobile App</li>
-<li>Learning HTML/CSS/JS</li>
+<li>Attend Hackathons</li>
+<li>Code bots in FightCode</li>
+<li>Build An Ionic Mobile App</li>
+<li>Learn HTML/CSS/JS</li>
 </ul>
 </div>
 </p>
