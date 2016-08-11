@@ -13,6 +13,5 @@ document.write('<a href="mailto' + email + ':jeromecompsci@gmail.com?Subject=Hel
 </script>
 
 <noscript>
-    Email address protected by JavaScript.<BR>
-    Please enable JavaScript to contact.
+    Enable Javascript!
 </noscript>
