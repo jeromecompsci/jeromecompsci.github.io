@@ -5,7 +5,7 @@ layout: page
 ---
 
 <h2>Purpose</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<p>We want to provide a place for students interested in technology or hoping to learn more about technology to develop and practice their skills while enjoying.</p>
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>
