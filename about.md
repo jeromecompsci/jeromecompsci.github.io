@@ -11,7 +11,7 @@ layout: page
       <strong>Plans and Activities</strong>
   </div>
   <p>  <div class="manual-content">
-Our planned activities include travel, individual projects, and a group project!
+Our planned activities include travel, individual activities, and a group project!
 <br>
 <ul>
 <li>Attend Hackathons</li>
