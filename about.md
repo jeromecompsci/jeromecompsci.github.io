@@ -20,5 +20,21 @@ layout: page
 </div>
 </p>
 </div>
+<br>
+<div class="manual-post">
+  <div class="manual manual-title">
+      <strong>Plans and Activities</strong>
+  </div>
+  <p>  <div class="manual-content">
+Our planned activities include travel, individual projects, and a group project!
+<ul>
+<li>Hackathons</li>
+<li>FightCode</li>
+<li>Ionic Mobile App</li>
+<li>Learning HTML/CSS/JS</li>
+</ul>
+</div>
+</p>
+</div>
 
 
