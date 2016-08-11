@@ -60,6 +60,17 @@ Fightcode is a website that allows you to code your own bot using Javascript. Af
 </p>
 </div>
 
+<br>
+<div class="manual-post">
+  <div class="manual manual-title">
+      <strong>Ionic</strong>
+  </div>
+  <p>  <div class="manual-content">
+Ionic is a software development kit for making mobile apps using web tools. We will be creating an app together as a club while learning HTML, CSS, and JavaScript! You can learn more <a href="http://ionicframework.com/">here</a>.
+</div>
+</p>
+</div>
+
 
 
 
