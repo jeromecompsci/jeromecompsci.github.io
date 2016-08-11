@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-<p>We want to provide a place for students interested in technology or hoping to learn more about technology to develop and practice their skills with one another</p>
+<div class="manual-post"><p>We want to provide a place for students interested in technology or hoping to learn more about technology to develop and practice their skills with one another</p></div>
 
 <div class="manual-post">
   <div class="manual manual-title">
