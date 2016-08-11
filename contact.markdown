@@ -5,3 +5,4 @@ layout: page
 ---
 
 ### Email
+<a href="mailto:jeromecompsci@gmail.com?Subject=Hello" target="_top">jeromecompsci@gmail.com</a>
