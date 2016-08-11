@@ -37,5 +37,16 @@ Our planned activities include travel, individual projects, and a group project!
 </div>
 </p>
 </div>
+<div class="manual-post">
+  <div class="manual manual-title">
+      <strong>Hackathons</strong>
+  </div>
+  <p>  <div class="manual-content">
+What is a hackathon? "A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build & share their creations over the course of a weekend in a relaxed and welcoming atmosphere." - MLH. We plan to attend at least one hackathon over the course of this school year.
+</div>
+</p>
+</div>
+
+
 
 
