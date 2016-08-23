@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://certificationgame.com/wp-content/uploads/2014/12/reflections-from-Certification-Game-hackathon-832x350.jpg" />
 
-<p>We want to provide a place for students interested in technology or hoping to learn more about technology to develop and practice their skills with one another</p>
+<p>We want to provide a place for students interested and hoping to learn more about technology to develop and practice their skills with one another.</p>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
@@ -18,7 +18,7 @@ Our planned activities include travel, individual activities, and a group projec
 <ul>
 <li>Attend Hackathons</li>
 <li>Code bots in FightCode</li>
-<li>Build An Ionic Mobile App</li>
+<li>Build an Ionic mobile app</li>
 <li>Learn HTML/CSS/JS</li>
 </ul>
 </div>
@@ -31,7 +31,7 @@ Our planned activities include travel, individual activities, and a group projec
       <strong>Hackathons</strong>
   </div>
   <p>  <div class="manual-content">
-What is a hackathon? MLH defines it as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build & share their creations over the course of a weekend in a relaxed and welcoming atmosphere. We plan to attend at least one hackathon over the course of this school year.
+What is a hackathon? MLH defines it as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build & share their creations over the course of a weekend in a relaxed and welcoming atmosphere. We plan to attend at least one hackathon in the course of this school year.
 </div>
 </p>
 </div>
