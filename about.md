@@ -66,7 +66,9 @@ Ionic is a software development kit for making mobile apps using web tools. We w
       <strong>Club Advisor</strong>
   </div>
   <p>  <div class="manual-content">
+<ul>
 <li>Anne Fuller</li>
+</ul>
 </div>
 </p>
 </div>
