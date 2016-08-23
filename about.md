@@ -59,7 +59,6 @@ Ionic is a software development kit for making mobile apps using web tools. We w
 </div>
 <img src="http://colorwhistle.com/wp-content/uploads/2015/11/creating-cross-platform-apps-using-ionic-framework.jpg" />
 <br>
-
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
