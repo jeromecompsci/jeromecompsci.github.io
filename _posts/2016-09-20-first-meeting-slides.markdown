@@ -1,6 +1,7 @@
 ---
 title: First Meeting Slides
 date: 2016-09-20 01:04:00 Z
+layout: page
 ---
 
 If you missed the first meeting, be sure to look over the info slides and the HTML intro slides. Read the HTML slides until the body/header section.
