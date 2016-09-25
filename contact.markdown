@@ -9,7 +9,7 @@ layout: page
 
 <script>
 var email = 'jeromecomp' + 'sci@gmail.com'
-document.write('<a href="mailto' + email + ':jeromecompsci@gmail.com?Subject=Hello" target="_top">jeromecompsci@gmail.com</a>')
+document.write('<a href="mailto' + email + ':jeromecompsci@gmail.com?Subject=Hello" target="_top">jeromecompsci@gmail.com\n</a>')
 </script>
 <br>
 <h3>Remind</h3>
