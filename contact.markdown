@@ -12,6 +12,7 @@ var email = 'jeromecomp' + 'sci@gmail.com'
 document.write('<a href="mailto' + email + ':jeromecompsci@gmail.com?Subject=Hello" target="_top">jeromecompsci@gmail.com</a>')
 </script>
 
+<h3>Remind</h3>
 To join our remind text @jhscompsci to 81010.
 
 <noscript>
