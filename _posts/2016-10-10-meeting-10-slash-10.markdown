@@ -1,6 +1,7 @@
 ---
 title: Meeting 10/10
 date: 2016-10-10 11:25:00 Z
+layout: page
 ---
 
 We will have our regular Monday meeting after school, expect a meeting every Monday unless school or the meeting is cancelled.
