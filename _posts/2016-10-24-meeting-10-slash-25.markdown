@@ -4,4 +4,4 @@ date: 2016-10-24 01:42:00 Z
 layout: page
 ---
 
-Mondays' meeting will be rescheduled to TUESDAY, 10/25 due to the XC meet, make sure you download/understand this: http://bit.ly/2eb8XED.
+Mondays' meeting will be rescheduled to TUESDAY, 10/25 due to the XC meet, make sure you download/understand this: [http://bit.ly/2eb8XED](http://bit.ly/2eb8XED).
