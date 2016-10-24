@@ -10,7 +10,7 @@ collections:
     output: true
 email: jeromecompsci@gmail.com
 description: Updates and more!
-baseurl:
+baseurl: 
 url: http://jeromecompsci.com
 github_username: jeromecompsci
 markdown: kramdown
