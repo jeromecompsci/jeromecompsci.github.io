@@ -1,6 +1,6 @@
 ---
 title: Meeting 12/8
-date: 2017-01-30 23:13:00 Z
+date: 2016-12-08 23:13:00 Z
 layout: page
 ---
 
