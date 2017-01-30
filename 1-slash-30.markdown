@@ -4,7 +4,7 @@ date: 2017-01-30 20:04:00 Z
 layout: page
 ---
 
-Google Drive downloads need a @dublinstudents.net email
+Google Drive downloads need an @dublinstudents.net email
 
 <a href="http://tinyurl.com/hd27x5b">Page Template</a>
 
