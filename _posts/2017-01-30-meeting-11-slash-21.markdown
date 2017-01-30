@@ -1,0 +1,6 @@
+---
+title: Meeting 11/21
+date: 2017-01-30 23:12:00 Z
+---
+
+We're having our regular meeting today in the Computer Science room. We'll be wrapping up HTML & CSS with a freecode day!
