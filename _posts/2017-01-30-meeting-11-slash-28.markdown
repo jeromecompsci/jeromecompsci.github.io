@@ -1,7 +1,9 @@
 ---
-title: Meeting 11/28
+title: Meeting 11/28 CANCELLED
 date: 2017-01-30 23:12:00 Z
 layout: page
 ---
+
+EDIT: Mrs. Fuller, our club advisor, just notified us that she is unavailable, so today's club meeting is CANCELLED. We will cover JS next meeting
 
 We're having our regular meeting today. We'll be starting Javascript, so if you haven't been keeping up now is a essential day to come.
