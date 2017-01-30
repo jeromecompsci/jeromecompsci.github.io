@@ -1,0 +1,8 @@
+---
+title: Meeting 12/12
+date: 2017-01-30 23:15:00 Z
+---
+
+Mrs. Fuller was not able to attend the last meeting for personal reasons. Be sure to attend today's meeting in C107 as we are starting JS
+
+This is the fightcode link for anyone interested in a head start: http://beta.fightcodegame.com/docs/
