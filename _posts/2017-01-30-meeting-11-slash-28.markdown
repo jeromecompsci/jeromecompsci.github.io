@@ -1,0 +1,7 @@
+---
+title: Meeting 11/28
+date: 2017-01-30 23:12:00 Z
+layout: page
+---
+
+We're having our regular meeting today. We'll be starting Javascript, so if you haven't been keeping up now is a essential day to come.
