@@ -82,6 +82,7 @@ Ionic is a software development kit for making mobile apps using web tools. We w
 <li>Scott Crawford</li>
 <li>Raymond Chen</li>
 <li>Alex Danesh</li>
+<li>Deepak Warrier</li>
 </ul>
 </div>
 </p>
