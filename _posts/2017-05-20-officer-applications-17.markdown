@@ -10,3 +10,5 @@ We will be accepting 1-2 new officers for the following school year to help mana
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScaovqen6zvsFPGaigIqTmSTka4i9baxrr1v11SdZ9T6rwZ-g/viewform">https://docs.google.com/forms/d/e/1FAIpQLScaovqen6zvsFPGaigIqTmSTka4i9baxrr1v11SdZ9T6rwZ-g/viewform
 </a>
+
+UPDATE: Applications are due by May 23rd
