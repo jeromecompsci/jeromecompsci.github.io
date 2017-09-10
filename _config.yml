@@ -11,6 +11,6 @@ collections:
 email: jeromecompsci@gmail.com
 description: Announcements, Resources, and Info
 baseurl: 
-url: http://jerometech.clubb
+url: http://jerometech.club
 github_username: jeromecompsci
 markdown: kramdown
