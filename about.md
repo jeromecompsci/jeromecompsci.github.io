@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-<img src="https://certificationgame.com/wp-content/uploads/2014/12/reflections-from-Certification-Game-hackathon-832x350.jpg" />
+
 
 <p>We want to provide a place for students interested and hoping to learn more about technology to develop and practice their skills with one another.</p>
 <br>
