@@ -13,7 +13,7 @@ document.write('<a href="mailto' + email + ':jeromecompsci@gmail.com?Subject=Hel
 </script>
 <br>
 <h3>Remind</h3>
-To join our remind text @jhscompsci to 81010.
+To join our remind text @jerometech to 81010.
 
 <noscript>
     Enable Javascript!
