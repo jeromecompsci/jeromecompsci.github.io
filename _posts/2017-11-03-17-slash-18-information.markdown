@@ -1,6 +1,7 @@
 ---
 title: 17/18 Information
 date: 2017-11-03 21:18:00 Z
+layout: page
 ---
 
 ## **In Club Activities**
