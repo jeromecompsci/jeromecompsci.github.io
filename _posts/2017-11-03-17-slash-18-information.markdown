@@ -24,9 +24,9 @@ This year we are helping Grizzell Middle School start a Computer Science club in
 
 The officers this year are:
 
-Sahil Ambardekar (ambardekarsahil@gmail.com)
-Alex Fu (18fu_alex@dublinstudents.net)
-Raymond Chen (18chen_raymond@dublinstudents.net)
+Sahil Ambardekar (ambardekarsahil@gmail.com)   
+Alex Fu (18fu_alex@dublinstudents.net)   
+Raymond Chen (18chen_raymond@dublinstudents.net)   
 Sean Yu (19yu_sean@dublinstudents.net)
 
 Feel free to contact us with concerns or suggestions. You can reply to a Remind message if needed.
