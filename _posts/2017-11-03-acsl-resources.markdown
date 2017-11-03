@@ -9,10 +9,10 @@ ACSL consists of 4 preliminary competitions that you must complete alone and the
 Preparing for ACSL: Please reference the resources below and the following link which contains Contests 1-4 from the 16/17 season:
 [https://drive.google.com/file/d/0Bwp_83JA33DHcGVxRHh0Z2xMWFU/view?usp=sharing](https://drive.google.com/file/d/0Bwp_83JA33DHcGVxRHh0Z2xMWFU/view?usp=sharing)
 
-**Contest Schedule (last dates for submission listed):**
-\nContest #1: Friday, December 22, 2017​
-\nContest #2: Friday, February 9, 2018
-Contest #3: Friday, March 9, 2018
+**Contest Schedule (last dates for submission listed):**\n
+Contest #1: Friday, December 22, 2017​\n
+Contest #2: Friday, February 9, 2018\n
+Contest #3: Friday, March 9, 2018\n
 Contest #4: Friday, April 12, 2018
 
 ## **Math:**
@@ -21,7 +21,7 @@ THIS IS EVERYTHING IN THE MATH SECTION - [https://www.scribd.com/doc/15606670/Am
 
 All Star Contest 1997 - [http://www.acsl.org/acsl/96-97/pdf/allstar/shorts.pdf](http://www.acsl.org/acsl/96-97/pdf/allstar/shorts.pdf)
 
-## **Programs:** 
+## **Programs:**
 
 All Star Contest 1997 - [http://www.acsl.org/acsl/96-97/pdf/allstar/progs.pdf](http://www.acsl.org/acsl/96-97/pdf/allstar/progs.pdf)
 
