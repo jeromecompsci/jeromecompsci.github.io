@@ -15,7 +15,7 @@ Contest #2: Friday, February 9, 2018
 Contest #3: Friday, March 9, 2018
 Contest #4: Friday, April 12, 2018
 
-## **Math: **
+## **Math:**
 
 THIS IS EVERYTHING IN THE MATH SECTION - [https://www.scribd.com/doc/15606670/American-Computer-Science-League-ACSL-Rules-and-Handbook](https://www.scribd.com/doc/15606670/American-Computer-Science-League-ACSL-Rules-and-Handbook)
 
