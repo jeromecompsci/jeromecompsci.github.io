@@ -8,6 +8,6 @@ To learn the material for Contest 1, use the resources posted [earlier](http://j
 
 [Practice Contest 1 Program](https://ufile.io/8s02x)
 
-The Practice Contest 1 math section on Thursday will include problems on Computer Number Systems, Recursive Functions, and What Does This Program Do?
+The Practice Contest 1 math section on Thursday will include problems on Computer Number Systems, Recursive Functions, and "What Does This Program Do?"
 
 Good Luck!
