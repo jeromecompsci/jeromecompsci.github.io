@@ -1,6 +1,7 @@
 ---
 title: ACSL Contest 2
 date: 2018-01-17 04:09:00 Z
+layout: page
 ---
 
 We'll be doing the ACSL Contest 2 math section after our meeting on Thursday in the Computer Science room. Because this is a late announcement, you may reschedule with Mrs. Fuller if you are not available that day or feel overly unprepared. 
