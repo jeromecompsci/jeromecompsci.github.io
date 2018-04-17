@@ -1,0 +1,6 @@
+---
+title: Key Codes
+date: 2018-04-17 19:18:00 Z
+---
+
+https://apple.stackexchange.com/questions/36943/how-do-i-automate-a-key-press-in-applescript
