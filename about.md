@@ -28,9 +28,14 @@ layout: page
   <p>  <div class="manual-content">
 <ul>
 <li>Sahil Ambardekar</li>
-<li>Raymond Chen</li>
+<li>Raghav Saini</li>
 <li>Sean Yu</li>
-<li>Alex Fu</li>
+<li>Eostre Danne</li>
+<li>Abhishek More</li>
+<li>Ryan Ziegler</li>
+<li>Raghav Samavedam</li>
+<li>Ishika Majumder</li>
+<li>Safa Darwish</li>
 </ul>
 </div>
 </p>
